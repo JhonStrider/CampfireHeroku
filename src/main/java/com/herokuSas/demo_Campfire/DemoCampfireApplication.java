@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoCampfireApplication {
 
 	public static void main(String[] args) {
+		System.out.println("teste1");
+
 		SpringApplication.run(DemoCampfireApplication.class, args);
 	}
 }
